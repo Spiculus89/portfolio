@@ -23,3 +23,108 @@ a {
   font-family: "burtons";
   src: url("../public/Burtons.otf");
 }
+
+.web {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  border-radius: 0.5em;
+  height: 250px;
+}
+
+.web1 {
+  background-image: url(../public/pizza-order.png);
+}
+
+.web2 {
+  background-image: url(../public/youtube-comment-analyst.png);
+}
+.web3 {
+  background-image: url(../public/imdb-movie.png);
+}
+
+.web4 {
+  background-image: url(../public/rock-paper-scissors.png);
+}
+.web5 {
+  background-image: url(../public/book-recommender.png);
+}
+
+.web6 {
+  background-image: url(../public/yatzy.png);
+}
+.web7 {
+  background-image: url(../public/weather-app.png);
+}
+
+.web8 {
+  background-image: url(../public/tic-tac-toe.png);
+}
+.web9 {
+  background-image: url(../public/minesweeper.png);
+}
+
+.web10 {
+  background-image: url(../public/hangman.png);
+}
+
+.info {
+  visibility: hidden;
+  color: white;
+  height: 100%;
+  position: relative;
+}
+
+.web1:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web2:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web3:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web4:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web5:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web6:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web7:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web8:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web9:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web10:hover .info {
+  visibility: visible;
+  background-color: rgba(0, 0, 0, 0.795);
+}
+
+.web p {
+  font-size: 0.8em;
+}
