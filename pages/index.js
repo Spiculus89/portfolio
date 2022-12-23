@@ -51,10 +51,10 @@ export default function Home() {
               Web Developer
             </h3>
             <p className=" text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-gray-500">
-              I'm a web developer with a focus on the MERN stack, but still
+              I&apos;m a web developer with a focus on the MERN stack, but still
               exploring other technologies and frameworks that catch my
-              interest! If you're looking for a developer to add to your team,
-              I'd love to hear from you!
+              interest! If you&apos;re looking for a developer to add to your team,
+              I&apos;d love to hear from you!
             </p>
           </div>
           <div className=" text-5xl flex justify-center gap-16 py-3 text-gray-600 ">
@@ -133,7 +133,7 @@ export default function Home() {
               Portfolio
             </h3>
             <p className=" text-md py-2 leading-8 text-gray-800 dark:text-gray-500">
-              These are some of my projects I've done so far. You can live
+              These are some of my projects I&apos;ve done so far. You can live
               preview all of them, but if you want to check out the code, feel
               free to contact me.
             </p>
