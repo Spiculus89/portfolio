@@ -35,9 +35,8 @@ export default function Home() {
                 <a
                   className=" bg-gradient-to-r from-cyan-500 to bg-teal-500 text-white px-4 py-2 rounded-md ml-8"
                   href="https://drive.google.com/file/d/1fkh0O8oMyCdBOJLeWtGs6qM2-a0dzjxd/view?usp=sharing"
-                  alt="Download Resume"
-                  download
                   target='_blank'
+                  rel="noreferrer"
                 >
                   Resume
                 </a>
@@ -62,13 +61,14 @@ export default function Home() {
             <a
               href="https://www.linkedin.com/in/amar-alibegovic-71728b138/"
               target="_blank"
+              rel="noreferrer"
             >
               <AiFillLinkedin />
             </a>
-            <a href="https://www.facebook.com/spiculus/" target="_blank">
+            <a href="https://www.facebook.com/spiculus/" rel="noreferrer" target="_blank">
               <AiFillFacebook />
             </a>
-            <a href="https://github.com/Spiculus89" target="_blank">
+            <a href="https://github.com/Spiculus89" rel="noreferrer" target="_blank">
               <AiFillGithub />
             </a>
           </div>
@@ -163,6 +163,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://pizza-order-mpdr.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
@@ -189,6 +190,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://youtube-comment-analyst.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
@@ -216,6 +218,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://imdb-search.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
@@ -242,6 +245,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://rock-paper-scissors-uwdu.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
@@ -268,6 +272,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://book-recommendation-w9v6.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
@@ -293,6 +298,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://yatzy.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
@@ -318,6 +324,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://weather-app-5sqs.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
@@ -343,6 +350,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://tic-tac-toe-5su7.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
@@ -368,6 +376,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://minesweeper-ma2t.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
@@ -394,6 +403,7 @@ export default function Home() {
                     className=" basis-1/3 my-auto"
                     href="https://hangman-54cu.onrender.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Live preview
                   </a>
